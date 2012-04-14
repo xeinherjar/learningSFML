@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1333507025 source:e:\learning\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1333571077 source:d:\learning\pong\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1333740679 source:d:\learning\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
